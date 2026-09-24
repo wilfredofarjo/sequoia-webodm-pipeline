@@ -1,0 +1,23 @@
+{
+  "2026-05-28": [
+    {
+      "source": "INTERNA",
+      "folder_start": 51,
+      "folder_end": 215
+    }
+  ],
+  "2026-07-10": [
+    {
+      "source": "SD",
+      "folder_start": 0,
+      "folder_end": 218
+    }
+  ],
+  "2026-08-21": [
+    {
+      "source": "SD",
+      "folder_start": 219,
+      "folder_end": 226
+    }
+  ]
+}
