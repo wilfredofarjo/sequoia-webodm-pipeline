@@ -1,0 +1,41 @@
+# Raw imagery
+*.TIF
+*.TIFF
+*.tif
+*.tiff
+*.JPG
+*.JPEG
+*.jpg
+*.jpeg
+
+# Parrot metadata / archives
+*.dat
+*.zip
+
+# Point clouds / 3D products
+*.las
+*.laz
+*.ply
+*.obj
+*.mtl
+
+# Local data directories
+Interna/
+SD/
+Sequoia_Organizado/
+Sequoia_Final_WebODM/
+WebODM_*/
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Environment / local config
+.env
+config.local.json
